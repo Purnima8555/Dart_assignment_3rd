@@ -1,7 +1,7 @@
-void main() {
-  int a = 1;
-  int b = 2;
+int a = 1;
+int b = 2;
 
+void main() {
   // Swapping logic
   a = a + b;
   b = a - b;
